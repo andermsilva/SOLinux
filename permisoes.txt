@@ -1,0 +1,17 @@
+========================Permissões=====================
+As permissões no linux são das por niveis de permissão,
+nivel dono do arquivo ou pasta (quem criou)
+nivel grupo pertencente do criador(grupo ao qual o ususario pertence)
+nivel outros (outros usuarios do sistema)
+
+Com o comando "chmod" podemos configurar tais permissões de acordo com a
+necesssidade.
+assim:
+chmod <nome do arquivo> ou <caminho do diretório> +  
+As permissões no linux são indicadas por letras
+================ rwx ======================
+Onde r = ler
+     w = escrever	
+     x = execultar	
+
+     	
